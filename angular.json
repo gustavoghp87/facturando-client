@@ -127,5 +127,8 @@
       }
     }
   },
-  "defaultProject": "facturando-client"
+  "defaultProject": "facturando-client",
+  "cli": {
+    "analytics": false
+  }
 }
